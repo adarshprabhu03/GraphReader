@@ -47,12 +47,12 @@ This repository contains a Python script designed for the analysis and processin
 
 ![Alt Text](/output%20images/filtered_datapoints.jpeg)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-![Alt Text](/output%20images/final_graph.jpeg)
 
 
 ## Extracted Values
 ![Alt Text](/output%20images/data_values.jpeg)
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
